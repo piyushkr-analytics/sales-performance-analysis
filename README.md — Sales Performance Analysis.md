@@ -75,6 +75,15 @@ This showed that a product with a higher win rate does not necessarily generate 
 
 ## Dataset
 
+
+This project uses the **CRM Sales Opportunities** dataset from Maven Analytics.
+
+The dataset contains B2B sales pipeline data for a fictional company that sells computer hardware, including information about accounts, products, sales teams, and sales opportunities.
+
+**Dataset source:** [Maven Analytics – CRM Sales Opportunities](https://mavenanalytics.io/data-playground/crm-sales-opportunities)
+
+**License:** Public Domain
+
 The dataset contains B2B sales pipeline information for a fictitious computer hardware company.
 
 The database contains four tables:
